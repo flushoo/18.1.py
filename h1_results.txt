@@ -1,0 +1,16 @@
+URL: https://example.com
+H1 tags:
+
+URL: https://www.wikipedia.org
+H1 tags:
+  - WikipediaThe Free Encyclopedia
+
+URL: https://www.python.org
+H1 tags:
+  - 
+  - Functions Defined
+  - Compound Data Types
+  - Intuitive Interpretation
+  - All the Flow You’d Expect
+  - Quick & Easy to Learn
+
